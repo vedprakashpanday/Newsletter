@@ -68,3 +68,9 @@ input[type='email']::placeholder{
         font-size: 0.875rem;
         color: #394150;
     }
+
+    @media  (max-width:1280px){
+     .container{
+        margin: 10%;
+     }
+    }
